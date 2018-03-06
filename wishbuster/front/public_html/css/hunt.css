@@ -1,0 +1,14 @@
+.hunt-focus {
+    filter: grayscale(100%);
+    display: block;
+}
+
+.hunt-focus > img {
+    width: 52px;
+    height: 40px;
+    float: right;
+}
+
+.hunt-focus:hover {
+    filter: none;
+}
